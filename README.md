@@ -5,6 +5,9 @@ Thanks For Od To Make The "Better Auto Clicker" Mod!
 this mod idk why but doesnt work İF you NOT use the Better Auto Clicker mod, i just doesnt activate the events
 
 
+Also, You SHOULD Put This File To ".../mods/local", to guraantee it will show on the mod menu
+
+
 
 
 
