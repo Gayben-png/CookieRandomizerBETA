@@ -1,0 +1,12 @@
+{
+	"Name": "Cookie Randomizer Preview",
+	"ID": "cookie_randomizer_preview",
+	"Author": "Deniz Kayra Bal",
+	"Description": "A chaotic randomizer mod. Currently optimized for Better Auto Clicker. Special thanks to Od!",
+	"ModVersion": 1,
+	"GameVersion": 2.053,
+	"Date": "08/04/2026",
+	"Dependencies": [],
+	"Disabled": 0,
+	"AllowPromotion": 1
+}
