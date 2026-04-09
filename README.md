@@ -9,7 +9,7 @@ Also, You SHOULD Put This File To ".../mods/local", to guraantee it will show on
 
 
 
-
+For itch.io Post, Go Here; https://therusty1111.itch.io/cookieclickerrandomizerbeta
 
 
 
