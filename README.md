@@ -12,7 +12,7 @@ Also, You SHOULD Put This File To ".../mods/local", to guraantee it will show on
 For itch.io Post, Go Here; https://therusty1111.itch.io/cookieclickerrandomizerbeta
 
 
-
+For TS6 Server And Devlogs, Use This TS6 Server; ts3server://51.254.82.166?port=2143
 
 
 
